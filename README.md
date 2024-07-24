@@ -11,7 +11,7 @@
 
 The included data loading, preprocessing and tokenization steps are custom to the k-cores subsets of the Amazon reviews data used for this project.
 
-# Data
+## Data
 
 https://nijianmo.github.io/amazon/index.html
 
