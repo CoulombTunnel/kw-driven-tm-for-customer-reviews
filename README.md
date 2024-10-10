@@ -1,4 +1,4 @@
-# KW-driven TM for Customer Reviews
+# BA KW-driven TM for Customer Reviews
 
 ## Contents
 
@@ -10,3 +10,11 @@
 ## Notes
 
 The included data loading, preprocessing and tokenization steps are custom to the k-cores subsets of the Amazon reviews data used for this project.
+
+## Data
+
+https://nijianmo.github.io/amazon/index.html
+
+Justifying recommendations using distantly-labeled reviews and fined-grained aspects
+Jianmo Ni, Jiacheng Li, Julian McAuley
+Empirical Methods in Natural Language Processing (EMNLP), 2019
